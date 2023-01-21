@@ -1,0 +1,66 @@
+{
+  "name" : "imgui-cef-template-project",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "f1c9431598c2b8aa5168c35485c9a28321ff9f09",
+  "dependencies" : [ {
+    "name" : "fmt",
+    "version>=" : "9.1.0#1"
+  }, {
+    "name" : "pugixml",
+    "version>=" : "1.13.0"
+  }, {
+    "name" : "nlohmann-json",
+    "version>=" : "3.11.2"
+  }, {
+    "name" : "sqlite3",
+    "version>=" : "3.40.1"
+  }, {
+    "name" : "curl",
+    "version>=" : "7.87.0"
+  }, {
+    "name" : "spdlog",
+    "version>=" : "1.11.0"
+  }, {
+    "name" : "openssl",
+    "version>=" : "3.0.7#2"
+  }, {
+    "name" : "sdl2",
+    "version>=" : "2.26.2"
+  }, {
+    "name" : "imgui",
+    "version>=" : "1.89.2"
+  }, {
+    "name" : "glad",
+    "version>=" : "0.1.36"
+  }, {
+    "name" : "implot",
+    "version>=" : "0.14"
+  }, {
+    "name" : "zserge-webview",
+    "version>=" : "2022-09-07"
+  }, {
+    "name" : "webview2",
+    "version>=" : "1.0.1210.39"
+  }, {
+    "name" : "egl-registry",
+    "version>=" : "2022-09-20"
+  }, {
+    "name" : "opengl-registry",
+    "version>=" : "2022-09-29"
+  }, {
+    "name" : "vcpkg-cmake-config",
+    "version>=" : "2022-02-06#1"
+  }, {
+    "name" : "vcpkg-cmake-get-vars",
+    "version>=" : "2022-12-16"
+  }, {
+    "name" : "vcpkg-cmake",
+    "version>=" : "2022-12-22"
+  }, {
+    "name" : "wil",
+    "version>=" : "2022-09-23"
+  }, {
+    "name" : "zlib",
+    "version>=" : "1.2.13"
+  } ]
+}

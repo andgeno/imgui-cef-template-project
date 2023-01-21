@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Project" pattern="!file[imgui-cef-template-project]:cmake-build-*//*&amp;&amp;!file[imgui-cef-template-project]:.idea//*" />
+</component>
